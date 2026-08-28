@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/co2-lab/anchors/releases/download/v0.1.2/anchors_0.1.2_windows_amd64.zip",
+            "bin": [
+                "anchors.exe"
+            ],
+            "hash": "c4a399290d50e2750da7810d1471334ba336cb4bf6c223e38f0df8d43f8435b9"
+        },
+        "arm64": {
+            "url": "https://github.com/co2-lab/anchors/releases/download/v0.1.2/anchors_0.1.2_windows_arm64.zip",
+            "bin": [
+                "anchors.exe"
+            ],
+            "hash": "e84c0906444d87b2e44dafde00b97ea902dcae4d28409c5795416a98ff1a88d5"
+        }
+    },
+    "homepage": "https://anchors.co2lab.io",
+    "license": "Elastic License 2.0",
+    "description": "Anchors — framework spec-first de continuidade para desenvolvimento assistido por IA"
+}
