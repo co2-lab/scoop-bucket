@@ -1,19 +1,19 @@
 {
-    "version": "0.1.155",
+    "version": "0.1.156",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/co2-lab/anchors/releases/download/v0.1.155/anchors_0.1.155_windows_amd64.zip",
+            "url": "https://github.com/co2-lab/anchors/releases/download/v0.1.156/anchors_0.1.156_windows_amd64.zip",
             "bin": [
                 "anchors.exe"
             ],
-            "hash": "951de593db535d91dd61450312f3650988820bbeb8a5791ba2ab3c0dee5dd5e4"
+            "hash": "d1eb01081c38cd7edcedee71883659434362f45d369205ff87f66f180a812e64"
         },
         "arm64": {
-            "url": "https://github.com/co2-lab/anchors/releases/download/v0.1.155/anchors_0.1.155_windows_arm64.zip",
+            "url": "https://github.com/co2-lab/anchors/releases/download/v0.1.156/anchors_0.1.156_windows_arm64.zip",
             "bin": [
                 "anchors.exe"
             ],
-            "hash": "9e08bf1d9bbb9a5d29cf70a44942a00c9875f09e923b27bd5207fefe55202c49"
+            "hash": "9762c204b2629f84fe9dcf649d2d5ca72afb320903518cb057aa397cf901efdb"
         }
     },
     "homepage": "https://anchors.co2lab.io",
